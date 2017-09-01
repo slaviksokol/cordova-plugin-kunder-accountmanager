@@ -1,0 +1,33 @@
+{
+  "name": "AccountManagerPlugin",
+  "version": "1.0.0",
+  "description": "Account Manager cordova plugin for android and keychain for iOS",
+  "cordova": {
+    "id": "cordova-plugin-kunder-accountmanager",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel4thsource/cordova-plugin-kunder-accountmanager.git"
+  },
+  "keywords": [
+    "cordova",
+    "accountmanager",
+    "android",
+    "plugin",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Daniel Valenzuela",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/daniel4thsource/cordova-plugin-kunder-accountmanager/issues"
+  },
+  "homepage": "https://github.com/daniel4thsource/cordova-plugin-kunder-accountmanager#readme"
+}
