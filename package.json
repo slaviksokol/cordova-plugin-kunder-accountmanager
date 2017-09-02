@@ -1,5 +1,5 @@
 {
-  "name": "AccountManagerPlugin",
+  "name": "accountmanagerplugin",
   "version": "1.0.0",
   "description": "Account Manager cordova plugin for android and keychain for iOS",
   "cordova": {
