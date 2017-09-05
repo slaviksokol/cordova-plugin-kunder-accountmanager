@@ -1,5 +1,5 @@
 {
-  "name": "accountmanagerplugin",
+  "name": "cordova-plugin-kunder-accountmanager",
   "version": "1.0.0",
   "description": "Account Manager cordova plugin for android and keychain for iOS",
   "cordova": {
