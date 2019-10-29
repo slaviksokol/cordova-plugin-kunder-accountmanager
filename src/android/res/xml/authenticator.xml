@@ -4,5 +4,5 @@
     android:accountType="here.the.unique.package.identifier"
     android:icon="@drawable/acm_icon.png"
     android:smallIcon="@drawable/acm_icon.png"
-    android:label="@string/reacrm
+    android:label="@string/ru.reacrm
 
